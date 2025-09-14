@@ -1,5 +1,4 @@
-## Transitionless Phonon Assisted Quantum Driving
-
+## Transitionless phonon asisted photon-qubit quantum state transfer in a hybrid optomechanical system
 This repository is related to the study of transitionless quantum driving, including phonon-assisted processes. For a detailed theoretical background and results, see the included PDF:
 
 - **Transitionless Phonon Assisted Quantum Driving** (`Transitionless Phonon assited.pdf`)
